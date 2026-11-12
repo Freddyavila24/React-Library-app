@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+
 import EmptyCart from "../assets/empty_cart.svg"
 import { Link } from "react-router-dom";
 const Cart = ({ cart, changeQuantity, removeItem }) => {
